@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x8b7b829d2cd540ab255e6f940c32fc4fdd578c85",
+  "SCAN_LINK": "https://polygonscan.com/token/0x8b7b829d2cd540ab255e6f940c32fc4fdd578c85",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Thecyborg",
+  "SYMBOL": "TC",
+  "MAX_SUPPLY": 10000,
+  "WEI_COST": 3000000000000000000,
+  "DISPLAY_COST": 3.00,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/thecyborg",
+  "SHOW_BACKGROUND": true
+}
